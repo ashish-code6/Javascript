@@ -1,0 +1,25 @@
+Var, Const and Let keyword ki khani:------
+
+    Const - Const keyword is used for only constant and not change/redeclare anywhere in the code.
+    Let -   var keyword is used for anywhere but it can be redeclare within the function.
+    Var-    Let keyword is used for anywhere but it can be redeclare within the function, It is not use in industry beacuse
+            it access from anywhere.
+
+    Note: we declare a variable without any keyword.
+        example: shopname=" GymStore ";
+
+----------------------------------------------------------------------------------------
+Data Types ki khani............
+
+    Most used Data Types.
+    1.Number    - 8471
+    2.String    - "ashish"
+    3.boolean   - true/false
+    4.bigInt    - use for large Integer.
+    5.null      - standalone value.
+
+    note: null means that something declare a value.it is treated as object.
+    undefined - undefined means that nothing is decalare. it is treated as undefined only.
+
+
+
