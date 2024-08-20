@@ -9,6 +9,7 @@ Var, Const and Let keyword ki khani:------
         example: shopname=" GymStore ";
 
 ----------------------------------------------------------------------------------------
+
 Data Types ki khani............
 
     Most used Data Types.
@@ -22,6 +23,7 @@ Data Types ki khani............
     undefined - undefined means that nothing is decalare. it is treated as undefined only.
 
 ------------------------------------------------------------------------------------------------
+
 Conversion ki khani............
 
     we have Integer variable number to change to string boolean and many...
@@ -29,6 +31,17 @@ Conversion ki khani............
     33-number to string then change but it give result (`NaN`)-Not any Number.
     same in all datatypes.
 ------------------------------------------------------------------------------------------------
+
+snaks with Number..........
+            const numbers=100000;
+             console.log(numbers.toFixed(2));
+             console.log(numbers.toLocaleString('en-IN'));
+
+            const ones=Number(1000);
+
+            console.table([typeof(numbers.toString()),typeof(ones)])
+------------------------------------------------------------------------------------------------
+
 String pe Charche.................
 
     ->There are two Method of Creating a string.
