@@ -21,5 +21,13 @@ Data Types ki khani............
     note: null means that something declare a value.it is treated as object.
     undefined - undefined means that nothing is decalare. it is treated as undefined only.
 
+------------------------------------------------------------------------------------------------
+Conversion ki khani............
+
+    we have Integer variable number to change to string boolean and many...
+
+    33-number to string then change but it give result (`NaN`)-Not any Number.
+    same in all datatypes.
+
 
 
