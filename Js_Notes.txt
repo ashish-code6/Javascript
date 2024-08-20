@@ -28,6 +28,46 @@ Conversion ki khani............
 
     33-number to string then change but it give result (`NaN`)-Not any Number.
     same in all datatypes.
+------------------------------------------------------------------------------------------------
+String pe Charche.................
 
+    ->There are two Method of Creating a string.
+
+        1.String Primitive  => const str1= " Primitive String".
+                            At index 0 at prsent " Primitive String".
+
+        2.String Object    => const str1= new String("A String object").
+                            At index 0 at present 'A'
+                            At index 1 at present ' '
+                            At index 2 at present 'S'
+                                      .
+                                      .
+                                      .
+                                    show on  
+
+        Note: we use only string primitive Conversioni is better.
+
+        function of String
+        -------------------
+            1.charAt()  -   It used finding in which index present at what character.
+                            charAt(index)-synatx
+
+            2.indexOf() -   It is used to finding the charcter at what index presnet.
+                            indexOf(searchString)  indexOf(searchString, position)
+
+            3.concat()  - It is used to concatation between N string.
+                            concat(str1, str2, /* …, */ strN)
+
+            4.slice()   - It is used to slice the string. it also start with negative number.
+                            slice(indexStart, indexEnd).
+
+            5.repeat()  - Repeatation purpose use
+                            repeat(count)
+
+            Note: Many function are in string like trim, touppercase,tolowercase ..etc.
+
+        
+
+        
 
 
