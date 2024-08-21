@@ -12,3 +12,13 @@
 // // myarr.shift() shif method is used to delete the element from start of the  array 
 
 // console.log(myarr);
+
+let marvel_heros=["spiderman","Doctorstrange","loki"];
+
+let dc_heros=["batman","superman"];
+
+// let all_super_heros=marvel_heros.concat(dc_heros); ----this method old for concat for one array to another array.
+
+// let all_heros=[...dc_heros,...marvel_heros];--- this is spread opreator that concat the one array to aother array.
+
+console.log(all_heros);
